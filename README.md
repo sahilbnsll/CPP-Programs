@@ -29,3 +29,17 @@ Here are some awesome facts about C++ that may interest you:
 3. C++ introduces Object-Oriented Programming, not present in C. Like other things, C++ supports the four primary features of OOP: encapsulation, polymorphism, abstraction, and inheritance.
 4. C++ got the OOP features from Simula67 Programming language.
 5. A function is a minimum requirement for a C++ program to run.(at least main() function)
+
+```c++
+#include <iostream>
+int main()
+{
+std::cout<<"Hello GitHub!";
+}
+```
+
+<h3> Output:</h3>
+
+```
+Hello GitHub!
+```
